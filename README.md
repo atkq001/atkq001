@@ -28,9 +28,9 @@
 A production-ready, single-page e-commerce platform built for a niche fragrance brand.
 * **Technical Highlight:** Engineered a "scrollytelling" interface with a 192-frame high-resolution sequence, optimizing DOM rendering for 60fps performance.
 
-#### [DriveSync - Car Rental Platform](#)
-A comprehensive web application designed for a car rental business, built collaboratively with a development team.
-* **Technical Highlight:** Led the front-end architecture and UI/UX design, developing dynamic filtering systems (by car type, price, availability) and integrating an interactive booking interface to streamline the user journey.
+#### [AKEA Auto Gallery Web Application](#)
+A fully responsive, dynamic web application developed collaboratively with a 4-person engineering team.
+* **Technical Highlight:** Built entirely with HTML5, CSS3, and Vanilla JavaScript. Implemented dynamic DOM manipulation to render vehicle details via URL parameters (`URLSearchParams`) and engineered a real-time, client-side search filtering system. Showcases strong foundational knowledge of CSS Grid/Flexbox architectures.
 
 ---
 
