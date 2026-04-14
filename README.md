@@ -36,7 +36,7 @@ A comprehensive web application designed for a car rental business, built collab
 
 ### 🌍 Languages & Education
 
-* **B.S. Management Information Systems** | Haliç University (Expected 2027)
+* **B.S. Management Information Systems** | Haliç University (Expected 2028)
 * **Languages:** Native Arabic, Professional English, Fluent Turkish.
 
 ---
