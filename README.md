@@ -1,4 +1,4 @@
-# Abdalrahman Abualqare
+# Abdalrahman Kare
 **Front-End Architecture | MIS @ Haliç University | Operations & Project Management**
 
 > Bridging the gap between technical execution and business strategy. Specialized in building high-performance, interactive single-page applications (SPAs) and managing complex operational workflows. Fluent in Arabic, English, and Turkish.
